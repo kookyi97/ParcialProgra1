@@ -12,3 +12,5 @@ Repositorio del parcial 1 de progamación Computacional III
 <p align="center">
   <img src="https://sgc.ugb.edu.sv/wp-content/uploads/2024/10/UGB_LOGO.png" alt="UGB" width="200">
 </p>
+
+
